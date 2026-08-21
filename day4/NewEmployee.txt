@@ -1,0 +1,4 @@
+5,Ranga,hyderabad,45000
+6,Raju,chennai,56000
+7,Kirthi,kolkata,67000
+8,Madan,Hyderabad,68000

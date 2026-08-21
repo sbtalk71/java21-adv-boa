@@ -1,0 +1,16 @@
+1,shantanu,hyderabad,45000
+2,Raman,chennai,56000
+3, Sukesh,kolkata,67000
+4,pavan,Hyderabad,680005,Ranga,hyderabad,45000
+6,Raju,chennai,56000
+7,Kirthi,kolkata,67000
+8,Madan,Hyderabad,68000
+5,Ranga,hyderabad,45000
+6,Raju,chennai,56000
+7,Kirthi,kolkata,67000
+8,Madan,hyderabad,68000
+
+5,Ranga,hyderabad,45000
+6,Raju,chennai,56000
+7,Kirthi,kolkata,67000
+8,Madan,hyderabad,68000
